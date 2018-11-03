@@ -1,4 +1,4 @@
-# Seven-hundred-thousand-using-pixel-in-vb.net (Demo)
+# Seventy-billion-report-using-pixel-in-vb.net (Demo)
 this program change black pixel to report pixel and save tiff HQ
 
 Generating 700,000 pixel using Black identifier image fast and simulate data recived
